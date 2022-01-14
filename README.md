@@ -3,6 +3,7 @@
 答案将以系列文章形式在公众号【包包算法笔记】进行系列更新，建议关注～
 
 [破解transformer/Bert八股，快问快答（一）](https://mp.weixin.qq.com/s?__biz=MzIwNDY1NTU5Mg==&mid=2247484315&idx=1&sn=76cf9a7dfe228e92a4c74d28c3c655fc&chksm=973d9d1ca04a140af3d81184f579b9137876206a13c2a6d6c41dc1dff42e4bfc809d76325c71&token=1359631707&lang=zh_CN#rd)
+
 [破解transformer/Bert八股，快问快答（二）](https://mp.weixin.qq.com/s?__biz=MzIwNDY1NTU5Mg==&mid=2247484364&idx=1&sn=0aa2145dd23dc040b54e2b5e9834858d&chksm=973d9d4ba04a145d0c1a2bc915709fbc9407c7668bca61d89fa3b04bdc70b364629824663394&token=1359631707&lang=zh_CN#rd)
 
 
